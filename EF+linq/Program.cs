@@ -40,13 +40,14 @@ namespace EF_linq
                 #region output
                 
                 foreach (Likes pl in db.Likes)
-               //    Console.WriteLine("{0} - {1}", pl.LikeId, pl.Photos != null ? pl.Photos.Context : "");
+               Console.WriteLine(pl.LikeId+" "+pl.PhotoId+" "+pl.CreatedDate);
                 Console.WriteLine();
                 // вывод 
-                foreach (Photos pl in db.Photos)
-                //    Console.WriteLine("{0} - {1}", pl.PhotoId, pl.Users != null ? pl.Users.Name : "");
+                foreach (Photos ph in db.Photos)
+                    Console.WriteLine(ph.PhotoId + " " + ph.UserId + " " + ph.CreatedDate);
                 Console.WriteLine();
-              
+                Console.WriteLine();
+
                 #endregion
 
                 /*     var firstLeftJoin = db.Users.GroupJoin(
@@ -66,15 +67,9 @@ namespace EF_linq
                 List<ResultCollections> resCol = new List<ResultCollections>();
                 foreach (Users t in db.Users)
                 {
-//var res = t.Photos.Select(x => new { likes = x.Likes.Where(y => y.CreatedDate > new DateTime(2021, 6, 28)) }).Sum(x=>x.likes.Count());
-                   // var res2 = t.Photos.Where(x=>x.);
-                //    Console.WriteLine(res + t.Name);
-                    //foreach (var r in res)
-                    //   Console.WriteLine("{0} - {1} - {2}", r.Select(x=>x.Photos.Use, t.Name, r.);
-                      ResultCollections rc = new ResultCollections { UserId = t.UserId, Name = t.Name, Count = t.Photos.Select(x => new { likes = x.Likes.Where(y => y.CreatedDate > new DateTime(2021, 6, 28)) }).Sum(x => x.likes.Count()) };
+                     ResultCollections rc = new ResultCollections { UserId = t.UserId, Name = t.Name, Count = t.Photos.Select(x => new { likes = x.Likes.Where(y => y.CreatedDate > new DateTime(2021, 6, 28)) }).Sum(x => x.likes.Count()) };
                     //t.Photos.Select(x => x.Likes.Where(y => y.CreatedDate > new DateTime(2021, 6, 28))) };//Sum(x => x.Count)
                      resCol.Add(rc);
-                                                                                                           //   Console.WriteLine("{0} - {1} - {2}", t.UserId, t.Name, cnt);
             }
                 
 
