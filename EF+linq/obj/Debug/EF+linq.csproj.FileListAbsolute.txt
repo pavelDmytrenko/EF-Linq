@@ -1,0 +1,12 @@
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EF+linq.exe.config
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EF+linq.exe
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EF+linq.pdb
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.dll
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.SqlServer.dll
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.xml
+D:\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.SqlServer.xml
+D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csprojAssemblyReference.cache
+D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileInputs.cache
+D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
+D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.exe
+D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.pdb
