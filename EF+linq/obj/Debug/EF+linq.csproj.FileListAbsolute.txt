@@ -10,3 +10,14 @@ D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileInputs.c
 D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
 D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.exe
 D:\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.pdb
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EF+linq.exe.config
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EF+linq.exe
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EF+linq.pdb
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.dll
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.SqlServer.dll
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.xml
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\bin\Debug\EntityFramework.SqlServer.xml
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileInputs.cache
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.exe
+D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.pdb

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EF_linq
 {
-    class UserContext: DbContext
+    public class UserContext: DbContext
     {
         public UserContext()
             : base("DbConnection")

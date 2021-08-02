@@ -53,11 +53,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DBOperation.cs" />
     <Compile Include="Likes.cs" />
     <Compile Include="Photos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ResultCollections.cs" />
+    <Compile Include="ResultItem.cs" />
     <Compile Include="UserContext.cs" />
     <Compile Include="Users.cs" />
   </ItemGroup>
