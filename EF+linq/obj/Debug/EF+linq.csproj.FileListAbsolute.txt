@@ -21,3 +21,15 @@ D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileI
 D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
 D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.exe
 D:\proj\D\app\LinqPractice\EF+linq\EF+linq\obj\Debug\EF+linq.pdb
+C:\Repos\EF+linq\bin\Debug\EF+linq.exe.config
+C:\Repos\EF+linq\bin\Debug\EF+linq.exe
+C:\Repos\EF+linq\bin\Debug\EF+linq.pdb
+C:\Repos\EF+linq\bin\Debug\EntityFramework.dll
+C:\Repos\EF+linq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repos\EF+linq\bin\Debug\EntityFramework.xml
+C:\Repos\EF+linq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.AssemblyReference.cache
+C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileInputs.cache
+C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
+C:\Repos\EF+linq\obj\Debug\EF+linq.exe
+C:\Repos\EF+linq\obj\Debug\EF+linq.pdb

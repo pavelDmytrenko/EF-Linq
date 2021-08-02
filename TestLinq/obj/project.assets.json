@@ -435,19 +435,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gron\\.nuget\\packages\\": {}
+    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proj\\D\\app\\LinqPractice\\EF+linq\\TestLinq\\TestLinq.csproj",
+      "projectUniqueName": "C:\\Repos\\TestLinq\\TestLinq.csproj",
       "projectName": "TestLinq",
-      "projectPath": "D:\\proj\\D\\app\\LinqPractice\\EF+linq\\TestLinq\\TestLinq.csproj",
-      "packagesPath": "C:\\Users\\gron\\.nuget\\packages\\",
-      "outputPath": "D:\\proj\\D\\app\\LinqPractice\\EF+linq\\TestLinq\\obj\\",
+      "projectPath": "C:\\Repos\\TestLinq\\TestLinq.csproj",
+      "packagesPath": "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\TestLinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pavlo_Dmytrenko\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -459,9 +459,10 @@
       },
       "frameworks": {
         "net48": {
+          "targetAlias": "net48",
           "projectReferences": {
-            "D:\\proj\\D\\app\\LinqPractice\\EF+linq\\EF+linq\\EF+linq.csproj": {
-              "projectPath": "D:\\proj\\D\\app\\LinqPractice\\EF+linq\\EF+linq\\EF+linq.csproj"
+            "C:\\Repos\\EF+linq\\EF+linq.csproj": {
+              "projectPath": "C:\\Repos\\EF+linq\\EF+linq.csproj"
             }
           }
         }
@@ -474,6 +475,7 @@
     },
     "frameworks": {
       "net48": {
+        "targetAlias": "net48",
         "dependencies": {
           "EntityFramework": {
             "target": "Package",
@@ -500,7 +502,7 @@
             "version": "[2.4.3, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
