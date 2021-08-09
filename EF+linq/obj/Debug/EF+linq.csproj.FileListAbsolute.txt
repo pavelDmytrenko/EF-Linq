@@ -28,7 +28,6 @@ C:\Repos\EF+linq\bin\Debug\EntityFramework.dll
 C:\Repos\EF+linq\bin\Debug\EntityFramework.SqlServer.dll
 C:\Repos\EF+linq\bin\Debug\EntityFramework.xml
 C:\Repos\EF+linq\bin\Debug\EntityFramework.SqlServer.xml
-C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.AssemblyReference.cache
 C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileInputs.cache
 C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
 C:\Repos\EF+linq\obj\Debug\EF+linq.exe

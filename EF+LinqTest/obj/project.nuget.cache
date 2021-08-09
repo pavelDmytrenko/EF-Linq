@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MCRTNJD5d5HEQ5vHN/Bn8mnJrbl7dESZWiG9meMLfe+x0LTp/zZzyHS8c1HXtJaLWnMhnWpzwulMmwhTimLbhg==",
+  "dgSpecHash": "BBS9yrstJu1eqjsab/ZSp+AM6ft4qA1Vf27iIWEZx4RRWMhqA0H+6VyZJmw5o1Z6nYFf1qunnmisnAIayosl0g==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\TestLinq\\TestLinq.csproj",
+  "projectFilePath": "C:\\Repos\\EF+LinqTest\\EF+LinqTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
-    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
-    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
+    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",
+    "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\microsoft.net.test.sdk\\16.10.0\\microsoft.net.test.sdk.16.10.0.nupkg.sha512",
     "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
     "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
     "C:\\Users\\Pavlo_Dmytrenko\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",

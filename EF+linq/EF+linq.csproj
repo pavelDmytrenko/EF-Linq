@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddToDB.cs" />
     <Compile Include="DBOperation.cs" />
     <Compile Include="Likes.cs" />
     <Compile Include="Photos.cs" />
