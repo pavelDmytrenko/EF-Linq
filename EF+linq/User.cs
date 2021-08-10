@@ -9,15 +9,15 @@ using System.ComponentModel.DataAnnotations;
 namespace EF_linq
 {
     [Table("Users")]
-    public class Users
+    public class User
     {
         [Key]
         public int UserId { get; set; }
         public string Name { get; set; }
-        public ICollection<Photos> Photos { get; set; }
-        public Users()
+        public ICollection<Photo> Photos { get; set; }
+        public User()
         {
-            Photos = new List<Photos>();
+            Photos = new List<Photo>();
         }
     }
 }

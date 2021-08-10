@@ -9,7 +9,7 @@ using System.ComponentModel.DataAnnotations;
 namespace EF_linq
 {
     [Table("Likes")]
-    public class Likes
+    public class Like
     {
         [Key]
         public int LikeId { get; set; }
@@ -17,7 +17,7 @@ namespace EF_linq
 
 
         public int? PhotoId { get; set; }
-        public Photos Photos { get; set; }
+        public Photo Photos { get; set; }
 
     }
 }

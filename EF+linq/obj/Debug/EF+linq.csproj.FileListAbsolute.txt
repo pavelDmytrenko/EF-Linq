@@ -32,3 +32,4 @@ C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.CoreCompileInputs.cache
 C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.CopyComplete
 C:\Repos\EF+linq\obj\Debug\EF+linq.exe
 C:\Repos\EF+linq\obj\Debug\EF+linq.pdb
+C:\Repos\EF+linq\obj\Debug\EF+linq.csproj.AssemblyReference.cache

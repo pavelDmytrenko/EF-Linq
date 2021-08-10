@@ -9,7 +9,7 @@ using System.ComponentModel.DataAnnotations;
 namespace EF_linq
 {
     [Table("Photos")]
-    public class Photos
+    public class Photo
     {
         [Key]
         public int PhotoId { get; set; }
@@ -17,12 +17,12 @@ namespace EF_linq
         public DateTime CreatedDate { get; set; }
 
         public int? UserId { get; set; }
-        public Users Users { get; set; }
+        public User Users { get; set; }
 
-        public ICollection<Likes> Likes { get; set; }
-        public Photos()
+        public ICollection<Like> Likes { get; set; }
+        public Photo()
         {
-            Likes = new List<Likes>();
+            Likes = new List<Like>();
         }
     }
 }
