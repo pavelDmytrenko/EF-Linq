@@ -8,11 +8,14 @@ namespace EF_linq
 {
     public class DBOperation
     {
+        private readonly IDbContext _dbContext;
+        public DBOperation(IDbContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
         public List<ResultItem> SelectItem(DateTime DateFrom)
         {
-            using (UserContext db = new UserContext())
-            { 
-                List<ResultItem> resItem = db.Users.Select(u =>
+                List<ResultItem> resItem = _dbContext.User.Select(u =>
                         new ResultItem
                         {
                             UserId = u.UserId,
@@ -22,7 +25,6 @@ namespace EF_linq
 
                 resItem.OrderByDescending(l => l.Count);
                 return resItem;
-            }
         }
     }
 }

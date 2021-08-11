@@ -1,0 +1,5 @@
+AddTestUsers.cs
+MyNotes.txt
+*/bin/**/*
+*/obj/**/*
+.vs/**/*
