@@ -3,3 +3,5 @@ MyNotes.txt
 */bin/**/*
 */obj/**/*
 .vs/**/*
+packages/**/*
+/**/*.user
