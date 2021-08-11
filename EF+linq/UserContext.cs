@@ -7,13 +7,6 @@ using System.Threading.Tasks;
 
 namespace EF_linq
 {
-    public interface IDbContext
-    {
-        DbSet<User> User { get; set; }
-        DbSet<Photo> Photo { get; set; }
-        DbSet<Like> Like { get; set; }
-        int SaveChanges();
-    }
     public class UserContext: DbContext, IDbContext
     {
         public UserContext()

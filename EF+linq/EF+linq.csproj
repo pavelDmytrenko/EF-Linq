@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBOperation.cs" />
+    <Compile Include="IDbContext.cs" />
     <Compile Include="Like.cs" />
     <Compile Include="Photo.cs" />
     <Compile Include="Program.cs" />
