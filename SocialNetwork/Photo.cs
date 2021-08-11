@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.ComponentModel.DataAnnotations;
 
-namespace EF_linq
+namespace SocialNetwork
 {
     [Table("Photos")]
     public class Photo

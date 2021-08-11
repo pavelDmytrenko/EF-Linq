@@ -3,10 +3,10 @@ using Xunit;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using EF_linq;
 using Moq;
+using SocialNetwork;
 
-namespace TestLinq
+namespace SocialNetworkTest
 {
     public class DBOperationTest
     {

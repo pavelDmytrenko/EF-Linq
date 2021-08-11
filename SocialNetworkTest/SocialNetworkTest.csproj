@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EF+linq\EF+linq.csproj" />
+    <ProjectReference Include="..\SocialNetwork\SocialNetwork.csproj" />
   </ItemGroup>
 
 </Project>

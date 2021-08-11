@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EF_linq
+namespace SocialNetwork
 {
     public class UserContext: DbContext, IDbContext
     {
