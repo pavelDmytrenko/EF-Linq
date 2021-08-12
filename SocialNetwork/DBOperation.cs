@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialNetwork
 {
-    public class DBOperation
+    public class DBOperation : IDBOperation
     {
         private readonly IDbContext _dbContext;
         public DBOperation(IDbContext dbContext)
@@ -26,5 +26,6 @@ namespace SocialNetwork
                 resItem.OrderByDescending(l => l.Count);
                 return resItem;
         }
+
     }
 }

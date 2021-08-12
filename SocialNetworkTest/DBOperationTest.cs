@@ -8,7 +8,7 @@ using SocialNetwork;
 
 namespace SocialNetworkTest
 {
-    public class DBOperationTest
+    public class DBOperationTest 
     {
         public DBOperation GetDBContext()
         {

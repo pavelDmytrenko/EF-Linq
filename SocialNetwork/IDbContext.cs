@@ -12,6 +12,5 @@ namespace SocialNetwork
         DbSet<User> User { get; set; }
         DbSet<Photo> Photo { get; set; }
         DbSet<Like> Like { get; set; }
-        int SaveChanges();
     }
 }
